@@ -15,4 +15,4 @@ Final Model: CatBoost Regressor
 
 Link Repositori: https://github.com/rhisadkaptri/final-project-kelompok-07-adit
 
-Link PPT: 
+Link PPT: https://docs.google.com/presentation/d/1aDLZWxkPDT1s82bJlUGqdnWxaCbi0hs_-S341SznGvk/edit?usp=sharing
