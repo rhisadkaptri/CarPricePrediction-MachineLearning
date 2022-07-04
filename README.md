@@ -1,4 +1,4 @@
-# Final Project Kelompok __
+# Final Project Kelompok 07
 Anggota Kelompok:
 - Mhd. Arsya Fikri
 - Rhisa Adika Putri
@@ -7,7 +7,7 @@ Nama Mentor: Aditya Bariq
 
 Nama Dataset: 'Car Price Prediction'
 
-Link Dataset: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction ![image](https://user-images.githubusercontent.com/76622802/177112614-8fff6497-e784-4da0-bbce-73f60da9af9b.png)
+Link Dataset: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction
 
 Problem: regression
 
