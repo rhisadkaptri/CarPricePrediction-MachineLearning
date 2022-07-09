@@ -8,4 +8,4 @@ Problem: regression
 
 Final Model: CatBoost Regressor
 
-Link Repositori: https://github.com/rhisadkaptri/final-project-kelompok-07-adit
+Link Repositori: https://github.com/rhisadkaptri/CarPricePrediction-MachineLearning
